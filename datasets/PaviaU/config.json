@@ -1,0 +1,25 @@
+{
+  "path": "PaviaU",
+  "file_name": "PaviaU.mat",
+  "mat_name": "paviaU",
+  "gt_file_name": "PaviaU_gt.mat",
+  "gt_mat_name": "paviaU_gt",
+  "image_width": 610,
+  "image_height": 340,
+  "bands_num": 103,
+  "num_classes": 10,
+  "category_model": {
+    "model": "rcssr",
+    "ae_hidden": [],
+    "ae_latent": 16,
+    "projection_dim": -1,
+    "gamma": 0.1,
+    "simmeasure": "L1",
+    "rc_act": false,
+    "error_measure": "L1"
+  },
+  "score": "R[0]",
+  "integrate_score": "S[1]+S[2]",
+  "arch_type": "softmax_avg",
+  "enable_gram": true
+}
