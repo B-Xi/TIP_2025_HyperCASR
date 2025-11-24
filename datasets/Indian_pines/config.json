@@ -1,0 +1,25 @@
+{
+  "path": "Indian_pines",
+  "file_name": "Indian_pines.mat",
+  "mat_name": "indian_pines_corrected",
+  "gt_file_name": "Indian_pines_gt.mat",
+  "gt_mat_name": "indian_pines_gt",
+  "image_width": 145,
+  "image_height": 145,
+  "bands_num": 200,
+  "num_classes": 9,
+  "category_model": {
+    "model": "rcssr",
+    "ae_hidden": [],
+    "ae_latent": 16,
+    "projection_dim": -1,
+    "gamma": 0.1,
+    "simmeasure": "L1",
+    "rc_act": false,
+    "error_measure": "L1"
+  },
+  "score": "R[0]",
+  "integrate_score": "S[2]",
+  "arch_type": "softmax_avg",
+  "enable_gram": true
+}
