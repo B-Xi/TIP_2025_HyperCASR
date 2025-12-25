@@ -19,20 +19,20 @@ Open-set recognition (OSR) in hyperspectral imagery (HSI) focuses on accurately 
 --
 If you find this code helpful, please kindly cite:
 
-[1] Xi, B., Zhang, W., Li, J., Song, R., & Li, Y., "HyperCASR: Spectral-spatial Open-Set Recognition With Category-Aware Semantic Reconstruction for Hyperspectral Imagery," in IEEE Transactions on Image Processing, doi: 10.1109/TIP.2025.3630327.
+[1] B. Xi, W. Zhang, J. Li, R. Song and Y. Li, "HyperCASR: Spectral-Spatial Open-Set Recognition With Category-Aware Semantic Reconstruction for Hyperspectral Imagery," in IEEE Transactions on Image Processing, vol. 34, pp. 7642-7655, 2025, doi: 10.1109/TIP.2025.3630327.
 
 Citation Details
 --
 BibTeX entry:
 ```
-@ARTICLE{11247869,
-  author={Xi, Bobo and Zhang, Wenjie and Li, Jiaojiao and Song, Rui and Li, Yunsong},
+@ARTICLE{TIP_2025_HyperCASR,
+ author={Xi, Bobo and Zhang, Wenjie and Li, Jiaojiao and Song, Rui and Li, Yunsong},
   journal={IEEE Transactions on Image Processing}, 
-  title={HyperCASR: Spectral-spatial Open-Set Recognition With Category-Aware Semantic Reconstruction for Hyperspectral Imagery}, 
+  title={HyperCASR: Spectral-Spatial Open-Set Recognition With Category-Aware Semantic Reconstruction for Hyperspectral Imagery}, 
   year={2025},
-  volume={},
+  volume={34},
   number={},
-  pages={1-1},
+  pages={7642-7655},
   doi={10.1109/TIP.2025.3630327}}
 ```
  
